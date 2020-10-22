@@ -4,6 +4,6 @@
 
 Hi!
 
-Here you'll find the demo code for my Pluralsight course [Microsoft Azure Solutions Architect: Implement a NoSQL Databases Strategy]https://www.pluralsight.com/authors/jurgen-kevelaers).
+Here you'll find the demo code for my Pluralsight course [Microsoft Azure Solutions Architect: Implement a NoSQL Databases Strategy](https://www.pluralsight.com/authors/jurgen-kevelaers).
 
 I hope you enjoyed the course. If you have any questions, please don't hesitate don't contact me!
