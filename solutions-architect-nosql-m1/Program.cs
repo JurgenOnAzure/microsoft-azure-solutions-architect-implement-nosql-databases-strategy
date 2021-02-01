@@ -1,6 +1,6 @@
 ﻿/*
   This demo application accompanies Pluralsight course 'Microsoft Azure Solutions Architect: Implement a NoSQL Databases Strategy', by Jurgen Kevelaers. 
-  See https://app.pluralsight.com/profile/author/jurgen-kevelaers.
+  See https://pluralsight.pxf.io/az303-nosql.
 
   MIT License
 
